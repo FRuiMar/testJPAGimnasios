@@ -3,9 +3,8 @@
 	<persistence-unit name="Gimnasios"
 		transaction-type="RESOURCE_LOCAL">
 		
-		<class>testJPAGimnasios.model.Asistente</class>
-		<class>testJPAGimnasios.model.Gimnasio</class>
 		<class>testJPAGimnasios.model.Localidad</class>
+		<class>testJPAGimnasios.model.Asistente</class>
 		
 
 		<properties>
